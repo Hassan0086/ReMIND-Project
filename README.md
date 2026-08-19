@@ -22,7 +22,7 @@
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-![Deployment](https://img.shields.io/badge/Deployment-Live-success)
+![Deployment](https://img.shields.io/badge/Deployment-Offline-red)
 
 </p>
 
@@ -269,7 +269,7 @@ Responsible for:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-organization/ReMIND.git
+git clone https://github.com/Hassan0086/ReMIND-Project.git
 
 cd ReMIND
 ```
@@ -336,7 +336,7 @@ npm start
 
 **Testing Status:** Completed
 
-**Deployment Status:** Completed
+**Deployment Status:** Inactive
 
 **Current Stage:** Proof-of-Concept (Final Year Project)
 
