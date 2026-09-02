@@ -38,6 +38,8 @@ The platform integrates multiple specialized processing modules into a unified w
 
 ReMIND was developed with the belief that technology should be used to improve quality of life and support human well-being through practical innovation.
 
+To view the demo and ReMIND working in action please visit: https://drive.google.com/file/d/1zOId8WjTa-T1dO0bHx93q9JBHH22npdH/view
+
 ---
 
 ## Problem Statement
@@ -271,7 +273,7 @@ Responsible for:
 ```bash
 git clone https://github.com/Hassan0086/ReMIND-Project.git
 
-cd ReMIND
+cd ReMIND-Project
 ```
 
 ---
